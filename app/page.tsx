@@ -41,9 +41,9 @@ const HomePage = () => {
           <HeyMomoBidhatah />
           <JoMerePritamSe />
           <OManwaRe />
+          <FusionKirtan />
           <MaKeCharaBacheKePrane />
           <NoOneIsThere />
-          <FusionKirtan />
         </div>
       </main>
       <FooterComponent />
