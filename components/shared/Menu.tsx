@@ -55,7 +55,7 @@ const ProgramMenu = () => {
             <a href="#st-omr">ओ मनवा रे</a>
           </li>
           <li>
-            <a href="#">**Kirtan to be decided</a>
+            <a href="#st-fsnkrtn">Fusion Kirtan</a>
           </li>
         </ol>
       </div>

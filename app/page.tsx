@@ -1,5 +1,6 @@
 import EveningPrayerEnglish from "@/components/EvePrayer";
 import EveningPrayerHindi from "@/components/EvePrayerHindi";
+import FusionKirtan from "@/components/FusionKirtan";
 import GuruVandanaEnglish from "@/components/GuruVandana";
 import GuruVandanaHindi from "@/components/GuruVandanaHindi";
 import HeyMomoBidhatah from "@/components/HeMomoBidhata";
@@ -42,6 +43,7 @@ const HomePage = () => {
           <OManwaRe />
           <MaKeCharaBacheKePrane />
           <NoOneIsThere />
+          <FusionKirtan />
         </div>
       </main>
       <FooterComponent />
